@@ -1,9 +1,14 @@
-# api documentation for  [brace (v0.10.0)](https://github.com/thlorenz/brace)  [![npm package](https://img.shields.io/npm/v/npmdoc-brace.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-brace) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-brace.svg)](https://travis-ci.org/npmdoc/node-npmdoc-brace)
+# npmdoc-brace
+
+#### api documentation for  [brace (v0.10.0)](https://github.com/thlorenz/brace)  [![npm package](https://img.shields.io/npm/v/npmdoc-brace.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-brace) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-brace.svg)](https://travis-ci.org/npmdoc/node-npmdoc-brace)
+
 #### browserify compatible version of the ace editor.
 
-[![NPM](https://nodei.co/npm/brace.png?downloads=true)](https://www.npmjs.com/package/brace)
+[![NPM](https://nodei.co/npm/brace.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/brace)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-brace/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-brace_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-brace/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-brace/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-brace/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-brace/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-brace/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-brace/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Thorsten Lorenz",
-        "email": "thlorenz@gmx.de",
         "url": "http://thlorenz.com"
     },
     "bugs": {
@@ -58,13 +62,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "thlorenz",
-            "email": "thlorenz@gmx.de"
+            "name": "thlorenz"
         }
     ],
     "name": "brace",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/thlorenz/brace.git"
@@ -93,16 +95,6 @@
     "version": "0.10.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module brace](#apidoc.module.brace)
-
-
-
-# <a name="apidoc.module.brace"></a>[module brace](#apidoc.module.brace)
 
 
 
