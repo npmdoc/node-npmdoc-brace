@@ -1,6 +1,6 @@
 # npmdoc-brace
 
-#### api documentation for  [brace (v0.10.0)](https://github.com/thlorenz/brace)  [![npm package](https://img.shields.io/npm/v/npmdoc-brace.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-brace) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-brace.svg)](https://travis-ci.org/npmdoc/node-npmdoc-brace)
+#### basic api documentation for  [brace (v0.10.0)](https://github.com/thlorenz/brace)  [![npm package](https://img.shields.io/npm/v/npmdoc-brace.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-brace) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-brace.svg)](https://travis-ci.org/npmdoc/node-npmdoc-brace)
 
 #### browserify compatible version of the ace editor.
 
@@ -92,7 +92,8 @@
         ]
     },
     "typings": "index.d.ts",
-    "version": "0.10.0"
+    "version": "0.10.0",
+    "bin": {}
 }
 ```
 
